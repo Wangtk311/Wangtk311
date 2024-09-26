@@ -34,6 +34,7 @@ I am proficient in or learning to use these languages or tools:
 ```java
 public void main()
 {
+    IntelligentAgent me = new IntelligentAgent();
     world.execute(me);
 }
 ```
