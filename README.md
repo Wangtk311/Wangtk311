@@ -1,5 +1,6 @@
 ### Hello, I am Albert! <img align="right" src="https://komarev.com/ghpvc/?username=Wangtk311&style=flat-square&label=Views&color=3776AB" alt="Wangtk311" />
 --------
+Noooooo! The Github snake is eating my contributions!
 
 ![](https://raw.githubusercontent.com/Wangtk311/Wangtk311/output/github-contribution-grid-snake.svg)
 
