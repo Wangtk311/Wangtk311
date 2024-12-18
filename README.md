@@ -34,7 +34,7 @@ I am proficient in or learning to use these languages or tools:
 
 🤓 I think not only software technologies are important for us, but also hardware technologies!
 
-✍ I am centering on backend and frontend development just like a real software engineer, in the past mainly backend, but now I'm interested in frontend, too!
+✍ I am centering on backend and frontend development like a real software engineer, in the past mainly backend, but now I'm interested in frontend!
 
 ```java
 public void main()
