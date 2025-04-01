@@ -18,13 +18,13 @@ I am proficient in or learning to use these languages or tools:
  ![VHDL](http://img.shields.io/badge/-VHDL-3776AB?style=flat-square)
  ![Cocos2dx](https://img.shields.io/badge/-Cocos2dx-409040?style=flat-square)
  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square)
- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square)
  ![VS](http://img.shields.io/badge/-VisualStudio-904090?style=flat-square)
  ![Qt](http://img.shields.io/badge/-Qt-409040?style=flat-square)
  ![IDEA](http://img.shields.io/badge/-IntelliJIDEA-3776AB?style=flat-square)
  ![Pycharm](http://img.shields.io/badge/-Pycharm-409040?style=flat-square)
  ![DBeaver](http://img.shields.io/badge/-DBeaver-3776AB?style=flat-square)
  ![Oracle](https://img.shields.io/badge/-Oracle-%23F05032?style=flat-square)
+ ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square)
 
 -------
  
