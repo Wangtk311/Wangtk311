@@ -30,7 +30,7 @@ I am proficient in or learning to use these languages or tools:
  
 ⭐️ Now I am a software engineering undergraduate in Guohao College, Tongji University, China, and You can call me **Albert** or **Wang**.
 
-🌱 I am developing course projects and researching on SoC, AI, CV and CG. I like to make those fancy projects for fun!
+🌱 I am developing course projects and researching on some edge applications for AI. I like to make those fancy projects for fun!
 
 🤓 I think not only software technologies are important for us, but also hardware technologies!
 
@@ -46,9 +46,14 @@ public void main()
 
 -------
 
-If you need to contact me, you can use these ways:
+If you need to contact me or know me more, you can use these ways:
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:941540804@qq.com)](mailto:941540804@qq.com)
-[![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/396369964)](https://space.bilibili.com/396369964)
+QQ Mail: [![Email Badge](https://img.shields.io/badge/-Email-4e95d9?style=flat-square&logoColor=white&link=mailto:941540804@qq.com)](mailto:941540804@qq.com) 
+Outlook Mail: [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logoColor=white&link=mailto:Wangtiankuo.Albert@outlook.com)](mailto:Wangtiankuo.Albert@outlook.com) 
+Resume: [![Resume Badge](https://img.shields.io/badge/-Resume-904090?style=flat-square&logoColor=white&link=https://wangtkgithubresume.tiiny.site)](https://wangtkgithubresume.tiiny.site) 
 
-I will be very pleased to receive your message! 🌐
+🌐 I will be very pleased to receive your message! 
+
+Now I am still learning basic and advanced IT knowledge. Honestly speaking, I am still a beginner, and will keep learning all the time. 
+
+If I can help you even just a little, I will feel honored. So welcome to contact me, and hope that it will be helpful for you!
