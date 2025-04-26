@@ -2,7 +2,15 @@
 --------
 Noooooo! The Github snake is eating my contributions! Maybe I need to provide more food for it!
 
-![](https://raw.githubusercontent.com/Wangtk311/Wangtk311/output/github-contribution-grid-snake.svg)
+<!--
+<img src="https://s2.loli.net/2025/04/26/ZoHT1Px6GSsuiyw.jpg">
+<img src="https://raw.githubusercontent.com/Wangtk311/Wangtk311/output/github-contribution-grid-snake.svg">
+-->
+
+<p align="left">
+  <img src="https://s2.loli.net/2025/04/26/ZoHT1Px6GSsuiyw.jpg" alt="描述1" width="11%" style="display:inline-block; margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/Wangtk311/Wangtk311/output/github-contribution-grid-snake.svg" alt="描述2" width="72%" style="display:inline-block;">
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wangtk311&theme=dracular&title_color=44AAEE&text_color=445566&layout=compact&card_width=390&count_private=true&size_weight=0.5&count_weight=0.5) <img src="https://github-readme-stats.vercel.app/api?username=Wangtk311&show_icons=true&theme=dracular&title_color=44AAEE&text_color=445566&icon_color=44AAEE&rank_icon=percentile&hide=issues&line_height=24&card_width=400&count_private=true">
 
