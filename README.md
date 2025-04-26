@@ -8,7 +8,7 @@ Noooooo! The Github snake is eating my contributions! Maybe I need to provide mo
 -->
 
 <p align="left">
-  <img src="https://s2.loli.net/2025/04/26/ZoHT1Px6GSsuiyw.jpg" alt="照片" width="13%" style="display:inline-block; margin-right:10px;">
+  <img src="https://s2.loli.net/2025/04/26/ZoHT1Px6GSsuiyw.jpg" alt="照片" width="13%" style="display:inline-block; margin-right:2%;">
   <img src="https://raw.githubusercontent.com/Wangtk311/Wangtk311/output/github-contribution-grid-snake.svg" alt="贡献" width="85%" style="display:inline-block;">
 </p>
 
