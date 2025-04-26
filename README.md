@@ -1,4 +1,4 @@
-### Hello, I am Albert! <img align="right" src="https://komarev.com/ghpvc/?username=Wangtk311&style=flat-square&label=Views&color=3776AB" alt="Wangtk311" />
+### ✨Hello, I am Albert! <img align="right" src="https://komarev.com/ghpvc/?username=Wangtk311&style=flat-square&label=Views&color=3776AB" alt="Wangtk311" />
 --------
 Noooooo! The Github snake is eating my contributions! Maybe I need to provide more food for it!
 
