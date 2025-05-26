@@ -1,8 +1,7 @@
-### ✨Hello, I am Albert! <img align="right" src="https://komarev.com/ghpvc/?username=Wangtk311&style=flat-square&label=Views&color=3776AB" alt="Wangtk311" />
---------
-Noooooo! The Github snake is eating my contributions! Maybe I need to provide more food for it!
+## ✨Hello, I am Albert! <img align="right" src="https://komarev.com/ghpvc/?username=Wangtk311&style=flat-square&label=Views&color=3776AB" alt="Wangtk311" />
 
-***"Even the subway stations work harder than you."  — Alan Turing***
+### ***"Even the subway stations work harder than you."  — Alan Turing*** 
+###### ***"No, I have never said that, absolut%dw@$D@!&*%..."  — Alan Turing (dragged away with mouth covered)***
 
 <!--
 <img src="https://s2.loli.net/2025/04/26/ZoHT1Px6GSsuiyw.jpg">
@@ -39,7 +38,7 @@ I am proficient in or learning to use these languages or tools:
 
 -------
  
-⭐️ Now I am a software engineering undergraduate in Guohao College, Tongji University, China, and You can call me **Albert** or **Wang**.
+**Now I am a software engineering undergraduate in Guohao College, Tongji University, China, and You can call me `Albert` or `Wang`.**
 
 🌱 I am developing course projects and researching on some edge applications for AI. I like to make those fancy projects for fun!
 
