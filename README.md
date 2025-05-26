@@ -25,7 +25,7 @@ I am proficient in or learning to use these languages or tools:
  ![Vue](https://img.shields.io/badge/-Vue-409040?style=flat-square)
  ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square)
  ![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square)
- ![VHDL](http://img.shields.io/badge/-VHDL-3776AB?style=flat-square)
+ ![PyTorch](http://img.shields.io/badge/-VHDL-3776AB?style=flat-square)
  ![Cocos2dx](https://img.shields.io/badge/-Cocos2dx-409040?style=flat-square)
  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square)
  ![VS](http://img.shields.io/badge/-VisualStudio-904090?style=flat-square)
