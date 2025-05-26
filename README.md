@@ -13,7 +13,7 @@ Noooooo! The Github snake is eating my contributions! Maybe I need to provide mo
   <img src="https://s2.loli.net/2025/05/26/b4DEXKVc1Go8gxr.png" alt="贡献" width="18%" style="display:inline-block;">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wangtk311&theme=dracular&title_color=44AAEE&text_color=445566&layout=compact&card_width=390&count_private=true&size_weight=0.5&count_weight=0.5) <img src="https://github-readme-stats.vercel.app/api?username=Wangtk311&show_icons=true&theme=dracular&title_color=44AAEE&text_color=445566&icon_color=44AAEE&rank_icon=percentile&hide=issues&line_height=24&card_width=400&count_private=true">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wangtk311&theme=dracular&title_color=44AAEE&text_color=445566&layout=compact&card_width=395&count_private=true&size_weight=0.5&count_weight=0.5) <img src="https://github-readme-stats.vercel.app/api?username=Wangtk311&show_icons=true&theme=dracular&title_color=44AAEE&text_color=445566&icon_color=44AAEE&rank_icon=percentile&hide=issues&line_height=24&card_width=400&count_private=true">
 
 I am proficient in or learning to use these languages or tools:
 
