@@ -2,6 +2,8 @@
 --------
 Noooooo! The Github snake is eating my contributions! Maybe I need to provide more food for it!
 
+***"Even the subway stations work harder than you."  — Alan Turing***
+
 <!--
 <img src="https://s2.loli.net/2025/04/26/ZoHT1Px6GSsuiyw.jpg">
 <img src="https://raw.githubusercontent.com/Wangtk311/Wangtk311/output/github-contribution-grid-snake.svg">
