@@ -14,27 +14,27 @@
   <img src="https://s2.loli.net/2025/05/26/b4DEXKVc1Go8gxr.png" alt="贡献" width="18%" style="display:inline-block;">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wangtk311&theme=dracular&title_color=44AAEE&text_color=445566&layout=compact&card_width=405&count_private=true&size_weight=0.5&count_weight=0.5) <img src="https://github-readme-stats.vercel.app/api?username=Wangtk311&show_icons=true&theme=dracular&title_color=44AAEE&text_color=445566&icon_color=44AAEE&rank_icon=percentile&hide=issues&line_height=24&card_width=400&count_private=true">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wangtk311&theme=dracular&title_color=44AAEE&text_color=445566&layout=compact&card_width=415&count_private=true&size_weight=0.5&count_weight=0.5) <img src="https://github-readme-stats.vercel.app/api?username=Wangtk311&show_icons=true&theme=dracular&title_color=44AAEE&text_color=445566&icon_color=44AAEE&rank_icon=percentile&hide=issues&line_height=24&card_width=390&count_private=true">
 
 I am proficient in or learning to use these languages or tools:
 
  ![C](http://img.shields.io/badge/-C-808080?style=flat-square)
  ![CPP](http://img.shields.io/badge/-CPP-904090?style=flat-square)
- ![CSharp](http://img.shields.io/badge/-CSharp-409040?style=flat-square)
  ![Java](http://img.shields.io/badge/-Java-7B6438?style=flat-square)
- ![Vue](https://img.shields.io/badge/-Vue-409040?style=flat-square)
  ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square)
+ ![CSharp](http://img.shields.io/badge/-CSharp-409040?style=flat-square)
  ![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square)
+ ![Vue](https://img.shields.io/badge/-Vue-409040?style=flat-square)
  ![PyTorch](http://img.shields.io/badge/-PyTorch-3776AB?style=flat-square)
- ![Cocos2DX](https://img.shields.io/badge/-Cocos2DX-409040?style=flat-square)
+ ![Cocos2DX](https://img.shields.io/badge/-Cocos2DX-60A0C0?style=flat-square)
  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square)
  ![VS](http://img.shields.io/badge/-JetBrainsIDE-904090?style=flat-square)
- ![Qt](http://img.shields.io/badge/-Qt-409040?style=flat-square)
- ![IDEA](http://img.shields.io/badge/-IntelliJIDEA-3776AB?style=flat-square)
  ![Pycharm](http://img.shields.io/badge/-Pycharm-409040?style=flat-square)
+ ![IDEA](http://img.shields.io/badge/-IntelliJIDEA-3776AB?style=flat-square)
+ ![Qt](http://img.shields.io/badge/-Qt-409040?style=flat-square)
  ![DBeaver](http://img.shields.io/badge/-DBeaver-3776AB?style=flat-square)
  ![Oracle](https://img.shields.io/badge/-Oracle-%23F05032?style=flat-square)
- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square)
+ ![GitHub](https://img.shields.io/badge/-GitHub-404040?style=flat-square)
 
 -------
  
@@ -61,11 +61,10 @@ public void main()
 If you need to contact me or know me more, you can use these ways:
 
 Resume: [![Resume Badge](https://img.shields.io/badge/-ViewResume-409090?style=flat-square&logoColor=white&link=https://wangtkgithubresume.tiiny.site)](https://wangtkgithubresume.tiiny.site) 
-QQ Mail: [![Email Badge](https://img.shields.io/badge/-EmailMe-4e95d9?style=flat-square&logoColor=white&link=mailto:941540804@qq.com)](mailto:941540804@qq.com) 
-Outlook Mail: [![Email Badge](https://img.shields.io/badge/-EmailMe-c14438?style=flat-square&logoColor=white&link=mailto:Wangtiankuo.Albert@outlook.com)](mailto:Wangtiankuo.Albert@outlook.com) 
+QQ Mail: [![Email Badge](https://img.shields.io/badge/-SendEmail-4e95d9?style=flat-square&logoColor=white&link=mailto:941540804@qq.com)](mailto:941540804@qq.com) 
+Outlook Mail: [![Email Badge](https://img.shields.io/badge/-SendEmail-c14438?style=flat-square&logoColor=white&link=mailto:Wangtiankuo.Albert@outlook.com)](mailto:Wangtiankuo.Albert@outlook.com) 
 Discord: [![Discord Badge](https://img.shields.io/badge/-ViewUser-6040D0?style=flat-square&logoColor=white&link=https://discord.com/users/1285482150421987339)](https://discord.com/users/1285482150421987339) 
-ORCiD: [![ORCiD Badge](https://img.shields.io/badge/-ORCiD-80D040?style=flat-square&logoColor=white&link=https://orcid.org/0009-0004-5500-505X)](https://orcid.org/0009-0004-5500-505X) 
-(Press the buttons)
+ORCiD: [![ORCiD Badge](https://img.shields.io/badge/-ViewORCiD-80D040?style=flat-square&logoColor=white&link=https://orcid.org/0009-0004-5500-505X)](https://orcid.org/0009-0004-5500-505X) 
 
 🌐 I will be very pleased to receive your message! 
 
