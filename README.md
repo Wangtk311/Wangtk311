@@ -46,6 +46,8 @@ I am proficient in or learning to use these languages or tools:
 
 ✍ I am centering on backend and frontend development, in the past mainly backend, but now I'm interested in fancy frontend, too!
 
+✨ I may want to research network, federated learning, edge intelligence, et cetera in graduate.
+
 ```java
 public void main()
 {
