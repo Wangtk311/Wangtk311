@@ -60,9 +60,11 @@ public void main()
 
 If you need to contact me or know me more, you can use these ways:
 
+Resume: [![Resume Badge](https://img.shields.io/badge/-ViewResume-409090?style=flat-square&logoColor=white&link=https://wangtkgithubresume.tiiny.site)](https://wangtkgithubresume.tiiny.site) 
 QQ Mail: [![Email Badge](https://img.shields.io/badge/-EmailMe-4e95d9?style=flat-square&logoColor=white&link=mailto:941540804@qq.com)](mailto:941540804@qq.com) 
 Outlook Mail: [![Email Badge](https://img.shields.io/badge/-EmailMe-c14438?style=flat-square&logoColor=white&link=mailto:Wangtiankuo.Albert@outlook.com)](mailto:Wangtiankuo.Albert@outlook.com) 
-Resume: [![Resume Badge](https://img.shields.io/badge/-ViewResume-904090?style=flat-square&logoColor=white&link=https://wangtkgithubresume.tiiny.site)](https://wangtkgithubresume.tiiny.site) 
+Discord: [![Discord Badge](https://img.shields.io/badge/-ViewUser-6040D0?style=flat-square&logoColor=white&link=https://discord.com/users/1285482150421987339)](https://discord.com/users/1285482150421987339) 
+ORCiD: [![ORCiD Badge](https://img.shields.io/badge/-ORCiD-80D040?style=flat-square&logoColor=white&link=https://orcid.org/0009-0004-5500-505X)](https://orcid.org/0009-0004-5500-505X) 
 (Press the buttons)
 
 🌐 I will be very pleased to receive your message! 
