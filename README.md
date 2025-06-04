@@ -1,7 +1,7 @@
 ## ✨Hello, I am Albert! <img align="right" src="https://komarev.com/ghpvc/?username=Wangtk311&style=flat-square&label=Views&color=3776AB" alt="Wangtk311" />
 
-### ***"Even the subway stations work harder than you."  — Alan Turing*** 
-###### ***"No, I have never said that, absolut%dw@$D@!&%..."  — Alan Turing (dragged away with mouth covered)***
+> ### ***"Even the subway stations work harder than you."  — Alan Turing***
+> ###### ***"No, I have never said that, absolut%dw@$D@!&%..."  — Alan Turing (dragged away with mouth covered)***
 
 <!--
 <img src="https://s2.loli.net/2025/04/26/ZoHT1Px6GSsuiyw.jpg">
