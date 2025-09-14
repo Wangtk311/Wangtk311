@@ -81,7 +81,8 @@ God#run PersonalityBoot
 
 If you need to contact me or know me more, you can use these ways:
 
-Resume: [![Resume Badge](https://img.shields.io/badge/-ViewResume-409090?style=flat-square&logoColor=white&link=https://wangtkgithubresume.tiiny.site)](https://wangtkgithubresume.tiiny.site) 
+Resume (To be Updated): [![Resume Badge](https://img.shields.io/badge/-ViewResume-409090?style=flat-square&logoColor=white&link=https://wangtkgithubresume.tiiny.site)](https://wangtkgithubresume.tiiny.site) 
+
 School Mail (Recommended): [![Email Badge](https://img.shields.io/badge/-SendEmail-3776AB?style=flat-square&logoColor=white&link=mailto:2250736@tongji.edu.cn)](mailto:2250736@tongji.edu.cn) 
 QQ Mail: [![Email Badge](https://img.shields.io/badge/-SendEmail-4e95d9?style=flat-square&logoColor=white&link=mailto:941540804@qq.com)](mailto:941540804@qq.com) 
 Outlook Mail: [![Email Badge](https://img.shields.io/badge/-SendEmail-c14438?style=flat-square&logoColor=white&link=mailto:Wangtiankuo.Albert@outlook.com)](mailto:Wangtiankuo.Albert@outlook.com) 
