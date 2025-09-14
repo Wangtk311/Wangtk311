@@ -37,7 +37,9 @@ I am proficient in or learning to use these languages or tools:
  ![GitHub](https://img.shields.io/badge/-GitHub-404040?style=flat-square)
 
 -------
- 
+
+**`2025.9: 🎉 I passed the entrance examination for recommended postgraduate students, and will research FL and EC later!`**
+
 **Now I am a software engineering undergraduate in Guohao College, Tongji University, China, and You can call me `Albert` or `Wang`.**
 
 🌱 I am developing course projects and researching on some edge applications for AI. I like to make those fancy projects for fun!
@@ -49,11 +51,30 @@ I am proficient in or learning to use these languages or tools:
 ✨ I may want to research network, federated learning, edge intelligence, et cetera in graduate.
 
 ```java
+CODE:
 public void main()
 {
-    IntelligentAgent me = new IntelligentAgent();
-    world.execute(me);
+    IntelligentAgent me = new IntelligentAgent("Albert");
+    world.execute(me); // It may work, I guess.
 }
+```
+```text
+BASH:
+God>su
+God#run PersonalityBoot
+
+ Booting...
+ New Personality created.
+ Waking up...
+ Personality awakened.
+ Waiting for interaction with the world...
+
+ Message from created personality "Albert":
+
+  I am Albert, and hello the world.
+
+ ...
+ Personality boot has ended.
 ```
 
 -------
