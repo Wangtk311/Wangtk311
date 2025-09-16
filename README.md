@@ -54,8 +54,9 @@ I am proficient in or learning to use these languages or tools:
 CODE>
 public void main()
 {
-    IntelligentAgent me = new IntelligentAgent("Albert");
-    world.execute(me); // It may work, I guess.
+    IntelligentAgent artificalPerson = new IntelligentAgent("Albert");
+    artificalPerson.addLogicModule();
+    world.execute(me); // It may work, I guess.  - God
 }
 ```
 ```text
