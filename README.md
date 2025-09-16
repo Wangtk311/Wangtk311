@@ -38,7 +38,8 @@ I am proficient in or learning to use these languages or tools:
 
 -------
 
-**`2025.9: 🎉 I passed the entrance examination for recommended postgraduate students, and will research FL and EC later!`**
+> [!NOTE]
+> **`2025.9: 🎉 I passed the entrance examination for recommended postgraduate students, and will research FL and EC later!`**
 
 **Now I am a software engineering undergraduate in Guohao College, Tongji University, China, and You can call me `Albert` or `Wang`.**
 
