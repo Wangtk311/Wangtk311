@@ -51,7 +51,7 @@ I am proficient in or learning to use these languages or tools:
 ✨ I may want to research network, federated learning, edge intelligence, et cetera in graduate.
 
 ```java
-CODE:
+CODE>
 public void main()
 {
     IntelligentAgent me = new IntelligentAgent("Albert");
@@ -59,9 +59,9 @@ public void main()
 }
 ```
 ```text
-BASH:
-God>su
-God#run PersonalityBoot
+BASH>
+God@EarthOnline:~/$ su
+God@EarthOnline:~/# run PersonalityCode
 
  Booting...
  New Personality created.
@@ -69,11 +69,9 @@ God#run PersonalityBoot
  Personality awakened.
  Waiting for interaction with the world...
 
- Message from created personality "Albert":
+ [!] Message from created personality "Albert":
+ > I am Albert, and hello the world.
 
-  I am Albert, and hello the world.
-
- ...
  Personality boot has ended.
 ```
 
