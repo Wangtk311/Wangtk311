@@ -73,7 +73,7 @@ God@EarthOnline:~/# run PersonalityCode
                                                |___/                                                  
 
  Booting...
- [================================================================] 100%
+ [=====================================================================] 100%
  New Personality created.
  Waking up...
  Personality awakened.
